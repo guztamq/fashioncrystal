@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="/fashioncrystal/public/css/style.css">
   <link rel="icon" href="/fashioncrystal/public/img/favicon.png?v=2" type="image/png">
 
-  <button id ="altDarkMode" class="btn btn-light">🌙 Dark Mode></button>
+  <button id ="altDarkMode" class="btn btn-light">🌙 Dark Mode</button>
 </head>
 
 <body>
